@@ -1,0 +1,22 @@
+# object type
+REQUIRE_AUTH = 'require_auth'
+NEW_MESSAGE = 'new_message'
+GLOBAL_MESSAGES = "global_messages"
+NEW_GLOBAL_MESSAGE = 'new_global_message'
+TYPE_USER = 'user'
+PLAYER_STATUS = 'player_status'
+ONLINE_PLAYERS = 'online_players'
+INCOMING_GAME_REQUEST = 'incoming_game_request'
+OUTGOING_GAME_REQUEST = 'outgoing_game_request'
+NEW_PRIVATE_MESSAGE = 'new_private_chat_message'
+PRIVATE_CHAT_MESSAGES = 'private_chat_messages'
+WAITING_FOR_PLAYER_TO_START_GAME = 'waiting_for_player_to_start_game'
+START_GAME = 'start_game'
+GAME_DATA = 'game_data'
+GAME_MESSAGE = 'game_message'
+GAME_END = 'game_end'
+RESUME_GAME = 'resume_game'
+ME_DATA = 'me'
+TOAST_MESSAGE = 'toast_message'
+
+OK = 'ok'
